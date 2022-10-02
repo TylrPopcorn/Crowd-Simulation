@@ -9,7 +9,7 @@ This model provides your game with a simulated crowd effect. The more 'people' (
 
 Download the model and open up a new empty ROBLOX studio experience. Insert the crowd model into the experience and follow the instructions in the main code.
 
-1. Change the "Crowd" object value's 'value' located in the "Crowd" LocalScript to the model of your crowd.
+1. Change the "Crowd" object 'value' located in the "Crowd" LocalScript to the model of your crowd.
 2. Put the "Crowd" Local script into the starter GUI
 3. Press "Play" and enjoy.
 
